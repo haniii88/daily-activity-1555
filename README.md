@@ -1,4 +1,4 @@
-import datetime
+import datetim
 
 def show_today():
     today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
